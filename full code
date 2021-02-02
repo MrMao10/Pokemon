@@ -2,6 +2,8 @@ import time
 import numpy as np
 import sys
 
+print('Welcome to Pokemon!')
+
 #delay printing
 
 def delay_print(s):
